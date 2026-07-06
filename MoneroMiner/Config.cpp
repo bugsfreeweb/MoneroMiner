@@ -16,7 +16,7 @@ void Config::setDefaults() {
     // Current pool (high difficulty):
     poolAddress = "xmr-us-east1.nanopool.org";
     poolPort = 10300;
-    walletAddress = "8C6hFb4Buo6dYwJiZEaFhyYhZTJaR4NyXSBzKMF1BnNKMGD92yeaY3a9PxuWp9bhTAh6dAXwqyyLfFxaPRct7j81L8t4iK2"; // Default test wallet
+    walletAddress = "4AmMooquAZ3JUAjuJTEDNZSxw9gmR5VuaMzKrmxjfHXuh1TGYdu3QxuEXLPhhSTZFmcA5DYfyGn3Z4Nfa27ionur4wwha1o"; // Default test wallet
     workerName = "worker1";
     password = "x";  // Some pools require non-empty password
     userAgent = "MoneroMiner/1.0.0";
